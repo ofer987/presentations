@@ -11,22 +11,22 @@ Slides uploaded at [http://www.danofer.com/presentations/documentation](http://w
 
 ---
 
-# Did You Write the Code?
+# What is Documentation?
 
 - Written by the author of the code
 - To teach **you** how to use the code
 
 ---
 
-# How To:
+# Install It:
 
 ## Ruby
 
-- rvm docs generate (https://rvm.io/rubies/docs)
+- `rvm docs generate` (https://rvm.io/rubies/docs)
 
 ## Ruby gem
 
-- gem install gem_name --document
+- `gem install gem_name --document`
 
 ---
 
@@ -51,9 +51,31 @@ Slides uploaded at [http://www.danofer.com/presentations/documentation](http://w
 
 ---
 
+# Pry
+
+- **REPL**: Read - Evaluate - Parse - Loop
+- Type `binding.pry` statement in Ruby application to enter pry
+
+## Then type
+- `help` to learn how to use it
+- `ls object_name` to read methods on object
+- `cd object_name` to change context into object
+
+---
+
+# How to Install Pry
+
+- To use the `binding.pry` statement pry:
+  - Install the [pry-byebug gem](https://github.com/deivid-rodriguez/pry-byebug)
+- To use pry with `Rails console`:
+  - Install the [pry-rails gem](https://github.com/rweng/pry-rails)
+
+---
+
 # Read the gem
 
-- Use `bundle open gem_name` to open text editor with gem code
+- Use `bundle open gem_name` to open gem code in text editor
+- Use `bundle show gem_name` to know version installed and where
 
 ---
 
@@ -61,6 +83,15 @@ Slides uploaded at [http://www.danofer.com/presentations/documentation](http://w
 
 - Use `git blame file_name` for authorship
 - Use `git reflog` to view list of states and `git reset` to change state
+
+---
+
+# Other documentation tools
+
+- Dash [kapeli.com/dash](https://kapeli.com/dash) for 19.99 USD
+- Google [www.google.com](http://www.google.com)
+- Ruby on Rails API [api.rubyonrails.org](http://api.rubyonrails.org)
+- The *ever invaluable* Ruby on Rails Guides [guides.rubyonrails.org](http://guides.rubyonrails.org)
 
 ---
 
