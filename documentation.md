@@ -7,7 +7,7 @@ Presented at theScore on Wednesday, June 24<sup>th</sup>, 2015
 <br>
 ![inline 70%](images/the_score_logo.png)
 
-Slides uploaded at [http://www.danofer.com/presentations/documentation](http://www.danofer.com/presentations/documentation)
+Slides uploaded at [www.danofer.com/presentations/documentation](http://www.danofer.com/presentations/documentation)
 
 ---
 
@@ -20,24 +20,25 @@ Slides uploaded at [http://www.danofer.com/presentations/documentation](http://w
 
 # Install It:
 
-## Ruby
+## Ruby Language and All Gems
 
-- `rvm docs generate` (https://rvm.io/rubies/docs)
+- `rvm docs generate` [rvm.io/rubies/docs](https://rvm.io/rubies/docs)
 
-## Ruby gem
+## Specific Ruby Gem
 
 - `gem install gem_name --document`
 
 ---
 
-# ri
+# ri (Ruby Interactive)
 
 - `ri ClassName.MethodName`
 - `ri ClassName`
 - `ri MethodName`
 
-- E.g., ri Array
-- E.g., ri Object.method
+Examples:
+- ri Array
+- ri Object.method
 
 ---
 
@@ -46,8 +47,7 @@ Slides uploaded at [http://www.danofer.com/presentations/documentation](http://w
 - Method calls are resolved at runtime.
 - Use the Object#method call to learn:
    - source_location
-   - owner
-   - source
+   - and more!
 
 ---
 
@@ -56,10 +56,10 @@ Slides uploaded at [http://www.danofer.com/presentations/documentation](http://w
 - **REPL**: Read - Evaluate - Parse - Loop
 - Type `binding.pry` statement in Ruby application to enter pry
 
-## Then type
-- `help` to learn how to use it
+## Then Type
 - `ls object_name` to read methods on object
 - `cd object_name` to change context into object
+- `help` to learn more
 
 ---
 
@@ -72,7 +72,7 @@ Slides uploaded at [http://www.danofer.com/presentations/documentation](http://w
 
 ---
 
-# Read the gem
+# Read the Gem
 
 - Use `bundle open gem_name` to open gem code in text editor
 - Use `bundle show gem_name` to know version installed and where
@@ -86,7 +86,7 @@ Slides uploaded at [http://www.danofer.com/presentations/documentation](http://w
 
 ---
 
-# Other documentation tools
+# Other Documentation Tools
 
 - Dash [kapeli.com/dash](https://kapeli.com/dash) for 19.99 USD
 - Google [www.google.com](http://www.google.com)
@@ -95,4 +95,4 @@ Slides uploaded at [http://www.danofer.com/presentations/documentation](http://w
 
 ---
 
-# You can find these slides at [http://www.danofer.com/presentations/documentation](http://www.danofer.com/presentations/documentation)
+# Download these slides at [www.danofer.com/presentations/documentation](http://www.danofer.com/presentations/documentation)
