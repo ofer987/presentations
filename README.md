@@ -27,3 +27,7 @@
   * `chrome_extensions.pptx`
   * 2021-04-30
   * Thomson Reuters, 120 Bremner Boulevard, 19th Floor
+8. New EWP Release Process
+  * `new_ewp_process.pptx`
+  * 2021-05-03
+  * Thomson Reuters, 120 Bremner Boulevard, 19th Floor
