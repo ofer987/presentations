@@ -23,7 +23,7 @@
   * `20190315_testing_techniques_in_C#.md`
   * 2019-03-15
   * Thomson Reuters, 120 Bremner Boulevard, 19th Floor
-7. Chrome Extensions (future presentation)
+7. Chrome Extensions
   * `chrome_extensions.pptx`
-  * YYYY-MM-DD
+  * 2021-04-30
   * Thomson Reuters, 120 Bremner Boulevard, 19th Floor
