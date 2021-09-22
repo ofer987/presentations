@@ -31,3 +31,7 @@
   * `new_ewp_process.pptx`
   * 2021-05-03
   * Thomson Reuters, 120 Bremner Boulevard, 19th Floor
+1. Code Review
+  * `code_review.pptx`
+  * 2021-09-24
+  * Thomson Reuters, 120 Bremner Boulevard, 19th Floor
