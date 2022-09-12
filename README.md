@@ -35,3 +35,8 @@
   * `code_review.pptx`
   * 2021-09-24
   * Thomson Reuters, 120 Bremner Boulevard, 19th Floor
+1. TR Git
+  * `presentation.pptx`
+  * 2022-09-14
+  * Toronto Unconference 2022
+  * Thomson Reuters, 333 Bay Street, Toronto, Ontario
